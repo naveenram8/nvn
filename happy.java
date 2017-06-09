@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class happyno
+class happy
 {
 static int sum(int n)
 {
