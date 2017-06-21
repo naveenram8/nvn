@@ -11,7 +11,10 @@ public class hunter12{
         }
         Arrays.sort(a);
         int k=sc.nextInt();
+        if(k<=n){
         System.out.println(a[n-k]);
-        
+        }else{
+            System.out.println("Invalid input");
+        }
     }
 }
